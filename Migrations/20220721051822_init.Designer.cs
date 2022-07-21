@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Asp.net_student.Migrations
 {
     [DbContext(typeof(CollegeContext))]
-    [Migration("20220719105602_init")]
+    [Migration("20220721051822_init")]
     partial class init
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
